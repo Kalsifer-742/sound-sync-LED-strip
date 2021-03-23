@@ -15,7 +15,7 @@
  <img src="https://i.imgur.com/6Shk8s0.jpg" alt="microphone" width="200"/>
  
  <br></br>
-- Adressable rgb led strip with [compatible chips](https://github.com/FastLED/FastLED/wiki/Chipset-reference)
+- Addressable rgb led strip with [compatible chips](https://github.com/FastLED/FastLED/wiki/Chipset-reference)
 
  > In addressable RGBs, each RGB LED (or segment/block of RGB LEDs) can display a different colour and intensity than its neighbours. Some could be lit in one colour or lit in another or more intense or less intense while others are simultaneously displaying something else.
  

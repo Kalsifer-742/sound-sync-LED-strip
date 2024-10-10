@@ -1,4 +1,4 @@
-# MusicReactiveLedStrip
+# sound-sync-LED-strip
 
 ### A little script to make an addressable rgb led strip react to music with a microphone
 
